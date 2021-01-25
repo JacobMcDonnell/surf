@@ -7,9 +7,8 @@
 ## Installation
 
 ```shell
-git clone https://gitlab.com/Jacob_McDonnell/slock.git
-cd slock
-./configure
+git clone https://gitlab.com/Jacob_McDonnell/surf.git
+cd surf
 sudo make install
 ```
 
